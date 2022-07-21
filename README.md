@@ -4,7 +4,6 @@
 -  💻 I’m currently working on Rikkei Software
 - 🌱 I’m currently learning Rust Language
 - ⚡ Fun fact: :)))
--->
 
 
 ## 🌐Socials
