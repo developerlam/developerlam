@@ -20,7 +20,7 @@
 ### ✍Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### ☻Random Dev Meme
+### 😁Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
