@@ -1,4 +1,4 @@
-# Hi, Im Lam Nguyen
+# Hi, I'm Lam Nguyen
 
 -  💻 I’m currently working on Rikkei Software
 - 🌱 I’m currently learning Rust Language
