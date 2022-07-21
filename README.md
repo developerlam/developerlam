@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Rust Language
 - ⚡ Fun fact: :)))
 
-
+### (￣。￣)Chill Zone
+<img src="https://wallpaperaccess.com/full/869923.gif"/>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/baolam.nguyen.10485546/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/developerlam/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](/www.twitch.tv/baron88891) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCaIMi3PYqFQ00OiZaOIXJZQ) 
 
@@ -19,8 +20,7 @@
 ### ✍Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### (￣。￣)Chill Zone
-<img src="https://wallpaperaccess.com/full/869923.gif"/>
+
 
 
 
