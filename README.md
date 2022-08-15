@@ -15,8 +15,6 @@
 
 
 
-### ✍Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### (￣。￣)Chill Zone
 <img src="https://wallpaperaccess.com/full/869923.gif"/>
