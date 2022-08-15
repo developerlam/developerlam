@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm Lam Nguyen</h1>
-<img align="right" alt="Coding" width="250" height="150" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="Coding" width="240" height="140" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 -  💻 I’m currently working on Rikkei Software
 - 🌱 I’m currently learning Rust Language
