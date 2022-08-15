@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Lam Nguyen</h1>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.PTsHIdnVknr_JmRPwdmNTQHaEm?pid=ImgDet&rs=1")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.PTsHIdnVknr_JmRPwdmNTQHaEm?pid=ImgDet&rs=1">
 
 -  💻 I’m currently working on Rikkei Software
 - 🌱 I’m currently learning Rust Language
