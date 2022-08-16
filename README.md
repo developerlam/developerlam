@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-<h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Lam+Nguyen"></h1>
+<h1 align="center" color="#36BCF7FF">I'm Lam Nguyen</h1>
 
 
 <h3 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></h3>
