@@ -2,7 +2,7 @@
 <h1 align="center" color="#36BCF7FF">I'm Lam Nguyen</h1>
 
 
-<h3 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer"></h3>
+<h3 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Cyber+Security;I'm+a+Full+Stack+Developer"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerlam&label=Profile%20views&color=0e75b6&style=flat" alt="developerlam" /> </p>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=8HAld68iAPTlzA&pid=ImgRaw&r=0">
